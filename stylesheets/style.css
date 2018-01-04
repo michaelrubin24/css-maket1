@@ -1,0 +1,163 @@
+
+.extra-services-check label{
+  font-size: 12px;
+  display: inline-block;
+}
+.extra-services-check input{
+  font-size: 13px;
+  width: 13px;
+  height: 13px;
+  zoom: 1.2;
+}
+.extra-services-list select{
+  font-size: 11px;
+  width: 102px;
+  display: block;
+  margin-top: 4px;
+}
+
+.price span{
+  font-weight: bold;
+  font-size: 14px;
+  display: block;
+  margin-left: 12px;
+}
+
+#buy span{
+  padding-left: 10px;
+}
+
+#buy, #buy i{
+  color: white;
+}
+
+.add-dream, .compare-items, .track-price {
+  vertical-align: top;
+  height: 85px;
+  width: 55px;
+  display: inline-block;
+  padding: 20px 0 7px 13px;
+  border-right: 1px solid grey;
+}
+
+.compare-items i, .track-price i {
+    font-size: 38px;
+    color: #C3CFDB
+}
+
+.add-dream i{
+  font-size: 38px;
+  color: #FFC100;
+}
+
+.price{
+  display: inline-block;
+  vertical-align: top;
+}
+
+.price .mg-4{
+  margin-top: 4px;
+}
+
+.mg-26{
+  margin-top: 26px;
+}
+.pd-l-12{
+  padding-left: 12px;
+}
+
+.extra-services-list{
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 0px;
+  margin-left: 10px;
+}
+
+.extra-services-check {
+  width: 110px;
+  margin-left: 14px;
+  display: inline-block;
+  vertical-align: top;
+}
+.main-price{
+  font-weight:bold;
+  font-size: 28px;
+  display: inline-block;
+  margin: 18px 102px;
+}
+
+.extra-services-list .last{
+  margin-top: 30px;
+}
+
+.credit{
+  color: blue;
+  border-bottom: 1px dotted blue;
+  display: block;
+  font-size: 16px;
+  width: 116px;
+  height: 18px;
+  text-align: center;
+  margin: 10px auto;
+}
+
+.credit:hover{
+  border: none;
+  cursor: pointer;
+}
+
+.info{
+  color: #929BF9;
+  padding-left: 3px;
+}
+
+.info:hover{
+  cursor: pointer;
+}
+
+#container-price{
+  width: 330px;
+  height: 280px;
+  background: #FFF9AF;
+  margin: 0 auto;
+}
+
+#buy{
+  width: 150px;
+  height: 52px;
+  font-size: 24px;
+  font-weight: bold;
+  background: #23DA64;
+  display: block;
+  margin: 0 auto;
+}
+#buy:hover{
+  cursor: pointer;
+  background: #3BDA22;
+}
+
+#footer{
+  height: 110px;
+  width: 330px;
+  background: white;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+#footer span{
+  display: inline-block;
+  font-size: 12.5px;
+  height: 40px;
+  width: 55px;
+  margin-top: 5px;
+}
+
+#footer span a{
+  color: #3E77AA;
+  text-decoration: none;
+  border-bottom: 1px dotted blue;
+}
+
+#footer span a:hover{
+  color: red;
+  border-bottom: none;
+}
